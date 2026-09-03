@@ -10,6 +10,7 @@ import javafx.scene.Group;
 import javafx.stage.Stage;
 
 public class Ghost extends GameEntity implements Collisionable {
+
     private ImageView ghostImageView;
     private final Pacman pacman;
     private final GameInfo lives;

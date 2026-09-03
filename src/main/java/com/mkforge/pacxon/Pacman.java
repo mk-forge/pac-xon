@@ -14,6 +14,7 @@ import javafx.scene.input.KeyCode;
 import javafx.stage.Stage;
 
 public class Pacman extends GameEntity implements Collisionable {
+
 	private final ImageView pacmanView;
 	private final Image possibleBlock;
 	private final Image blockImage;

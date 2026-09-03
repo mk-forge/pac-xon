@@ -7,6 +7,7 @@ import javafx.scene.text.Font;
 import javafx.scene.text.Text;
 
 public abstract class GameInfo {
+
     protected Text titleText;
     protected Text valueText;
 

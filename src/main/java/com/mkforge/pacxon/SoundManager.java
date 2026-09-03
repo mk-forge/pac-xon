@@ -6,6 +6,7 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 
 public class SoundManager {
+
     private static final Logger LOGGER = Logger.getLogger(SoundManager.class.getName());
     private static Clip backgroundClip;
     private static Clip moveClip;

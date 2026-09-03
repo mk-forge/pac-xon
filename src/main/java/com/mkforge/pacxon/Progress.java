@@ -21,7 +21,7 @@ public class Progress extends GameInfo {
         configureText(titleText, 320, "Progress: ", Color.YELLOW, gameFont);
         configureText(valueText, titleText.getX() + titleText.getLayoutBounds().getWidth(), "0", Color.WHITE, gameFont);
 
-        valueText.textProperty().addListener((obs, oldVal, newVal) -> {
+        valueText.textProperty().addListener((observable, oldValue, newValue) -> {
             double newX = valueText.getX() + valueText.getLayoutBounds().getWidth() + 5;
             percentText.setX(newX);
         });

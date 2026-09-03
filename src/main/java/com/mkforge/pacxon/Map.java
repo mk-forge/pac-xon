@@ -14,6 +14,7 @@ import javafx.animation.Timeline;
 import javafx.util.Duration;
 
 public class Map {
+
     private final Image block;
     private final Game game;
     private final List<PowerUp> activePowerUps = new ArrayList<>();

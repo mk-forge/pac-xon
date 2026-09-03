@@ -5,6 +5,7 @@ import java.util.List;
 import javafx.scene.image.ImageView;
 
 public class GameEntity {
+
     private boolean gameOver = false;
     protected boolean powerUpActive = false;
     protected double speedX = 1;
