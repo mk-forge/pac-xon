@@ -1,0 +1,68 @@
+.round-button-and-text-border {
+    -fx-background-radius: 2cm;
+    -fx-background-color: yellow;
+    -fx-text-fill: white;
+    -fx-font-size: 30px;
+    -fx-font-family: "Bangers";
+}
+
+.round-button-and-text-border .text {
+    -fx-stroke: black;
+    -fx-stroke-width: 0.5;
+}
+
+.round-button-and-text-border:hover {
+    -fx-background-color: #ffd700;
+}
+
+.round-button-and-text-border:armed {
+    -fx-background-color: #e6c200;
+}
+
+.menu-root {
+    -fx-background-image: url("../images/menu_background.jpg");
+    -fx-background-size: contain;
+    -fx-background-position: center;
+}
+
+.menu-toggle-button {
+    -fx-background-radius: 2cm;
+    -fx-background-color: yellow;
+    -fx-font-size: 20px;
+}
+
+.menu-toggle-button:hover {
+    -fx-background-color: #ffd700;
+}
+
+.menu-toggle-button:armed {
+    -fx-background-color: #e6c200;
+}
+
+.diff-button .text {
+    -fx-text-stroke: black;
+    -fx-stroke-width: 0.5;
+}
+
+.diff-label {
+    -fx-text-fill: yellow;
+    -fx-font-size: 30px;
+    -fx-font-family: "Bangers";
+}
+
+.diff-button {
+    -fx-background-radius: 1cm;
+    -fx-background-color: rgba(255, 255, 255, 0.1);
+    -fx-text-fill: white;
+    -fx-font-size: 16px;
+    -fx-font-family: "Bangers";
+}
+
+.diff-button:hover {
+    -fx-background-color: rgba(255, 255, 255, 0.2);
+}
+
+.diff-button:selected {
+    -fx-background-color: yellow;
+    -fx-text-fill: black;
+}
