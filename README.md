@@ -4,7 +4,7 @@ Classic PAC-XON game implemented in JavaFX.
 
 ## Overview
 
-PAC-XON is a reimplementation of the classic arcade game where you control Pacman, draw paths, and claim territory while avoiding ghosts. The game combines maze navigation with territory control mechanics.
+PAC-XON is a reimplementation of the classic arcade game where you control Pacman, draw paths and claim territory while avoiding ghosts. The game combines maze navigation with territory control mechanics.
 
 ## Tech stack
 
