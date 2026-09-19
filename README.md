@@ -25,10 +25,10 @@ PAC-XON is a reimplementation of the classic arcade game where you control Pacma
 
 ## Screenshots
 
-![Menu](./Screenshots/menu.png)
-![Game](./Screenshots/game.png)
-![Win](./Screenshots/win.png)
-![Log](./Screenshots/log.png)
+![Menu](https://raw.githubusercontent.com/mk-forge/pac-xon/main/Screenshots/menu.png)
+![Game](https://raw.githubusercontent.com/mk-forge/pac-xon/main/Screenshots/game.png)
+![Win](https://raw.githubusercontent.com/mk-forge/pac-xon/main/Screenshots/win.png)
+![Log](https://raw.githubusercontent.com/mk-forge/pac-xon/main/Screenshots/log.png)
 
 ## Installation
 
