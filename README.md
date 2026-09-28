@@ -84,5 +84,5 @@ If you want to restore the original behavior, modify `applyBallEffect()` in `Map
 
 ## Credits
 
-- Music and sound effects from Pixabay (Pixabay Content License)
-- Font Bangers from Google Fonts (OFL license)
+- Music and sound effects from Pixabay (Pixabay Content License).
+- Font Bangers from Google Fonts (OFL License).
