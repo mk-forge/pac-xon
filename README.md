@@ -1,5 +1,9 @@
 # PAC-XON
 
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-ED8B00)
+![Maven](https://img.shields.io/badge/Maven-C71A36?logo=apachemaven&logoColor=white)
+
 Classic PAC-XON game implemented in JavaFX.
 
 ## Overview
@@ -86,3 +90,7 @@ If you want to restore the original behavior, modify `applyBallEffect()` in `Map
 
 - Music and sound effects from Pixabay (Pixabay Content License).
 - Font Bangers from Google Fonts (OFL License).
+
+## License
+
+[MIT](LICENSE)
